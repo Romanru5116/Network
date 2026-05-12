@@ -11,3 +11,11 @@ SSL соединение обеспечивает шифрование данн�
 МАППИНГ МОДЕЛЕЙ OSI и TCP
 
 ![маппинг](https://github.com/Romanru5116/Network/blob/d45d4f56b66b2a69add9092f63b953810c722843/PIC/tcpvsosi.jpg)
+
+ЕЩЕ
+протоколы:
+ gprc
+ L2
+
+ reverse proxy.
+ 
