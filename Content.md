@@ -3,6 +3,8 @@ _ИНТЕРНЕТ_как работает DNS
 
 ![схематично](https://github.com/Romanru5116/Network/blob/2b1a71c5be349d47345cf3627736d8786f8a4065/PIC/ScreenshotDNSfrom%202026-05-26%2000-14-50.png)
 
+![картинкаиерархия](https://github.com/Romanru5116/Network/blob/99acaf6e8178d461bf2d1aa9a57f930937f4d373/PIC/ScreenshotHierachyDNS_%20from%202026-05-26%2000-22-56.png)
+
  ##Теория: есть несколько видов и типов DNS записей
 ###Основные типы DNS-записей
 A: Связывает доменное имя с IPv4-адресом.
